@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background:#ffcccc;
+    color:black;
+    font-family: 'Roboto';
+   }
+   img{
+     text-align:center;
+     height:150;
+     width:150;
+   }
+   h1 {
+     text-align:center;
+     color:red;
+   }
